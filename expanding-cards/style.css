@@ -55,31 +55,23 @@ body {
 }
 
 .container .bg-image-1 {
-  background-image: url("../../img/bg-1.jpg");
+  background-image: url("https://www.abt-sportsline.com/fileadmin/user_upload/ABT_RS_3_1.jpg");
 }
 
 .container .bg-image-2 {
-  background-image: url("../../img/bg-2.jpg");
+  background-image: url("./img/bg-2.jpg");
 }
 
 .container .bg-image-3 {
-  background-image: url("../../img/bg-3.jpg");
+  background-image: url("./img/bg-3.jpg");
 }
 
 .container .bg-image-4 {
-  background-image: url("../../img/bg-4.jpg");
+  background-image: url("./img/bg-4.jpg");
 }
 
 .container .bg-image-5 {
-  background-image: url("../../img/bg-5.jpg");
-}
-
-.container .bg-image-6 {
-  background-image: url("../../img/bg-6.jpg");
-}
-
-.container .bg-image-7 {
-  background-image: url("../../img/bg-7.jpg");
+  background-image: url("./img/bg-5.png");
 }
 
 .page-loading {
@@ -103,6 +95,6 @@ body {
 
 .page-active {
   opacity: 0;
-  transition: all 4s;
+  transition: all 1s;
   visibility: hidden;
 }
