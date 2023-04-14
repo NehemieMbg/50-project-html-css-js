@@ -18,4 +18,4 @@ function removeActiveClasses() {
 
 setTimeout(() => {
   loading.classList.add("page-active");
-}, 5000);
+}, 2000);
